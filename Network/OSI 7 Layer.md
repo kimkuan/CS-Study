@@ -1,7 +1,7 @@
 ## 질문 LIST & 간단 답변
 
 #### 💡 OSI 7 Layer란?
-- 국제표준화기구(ISO)가 
+- 국제표준화기구(ISO)에서 만든 네트워크 통신의 7단계 과정
 
 #### 💡 OSI 7 Layer를 나눈 이유는?
 
@@ -16,6 +16,13 @@
 ## 질문 심화 답변
 
 #### 💡 OSI 7 Layer 계층별 설명
+* 물리 계층(Pyhsical Layer)
+* 데이터링크 계층(Data-Link Layer)
+* 네트워크 계층(Network Layer)
+* 전송 계층(Transfer Layer)
+* 세선 계층(Session Layer)
+* 표현 계층(Presentation Layer)
+* 응용 계층(Application Layer)
 
 #### 💡 프로토콜의 기능
 * 캡슐화(Encapsulation)
