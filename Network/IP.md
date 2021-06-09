@@ -14,9 +14,6 @@
 * 따라서 주소 공간을 대폭 확장한 IPv6가 차세대 프로토콜로 등장하게 되었습니다.
 * IPv6는 주소 공간이 128비트로 확장 되었을뿐 아니라 헤더 구조의 단순화, 흐름 제어 기능이 추가되었습니다.
 
-
-#### 💡 IPv4의 주소 부족현상을 해결하기 위해 어떤 방법을 사용하고 있나요?
-
 <hr>
 <br>
 
@@ -30,7 +27,7 @@
 * 발급해준 IP를 일정 시간동안 사용하지 않는 경우, 서버가 다시 IP 주소를 회수하게 됩니다.
 
 <hr>
-* IPv4 vs IPv6
+* IPv4 vs IPv6 <br>
 https://www.ibm.com/docs/ko/i/7.3?topic=6-comparison-ipv4-ipv6#rzai2compipv4ipv6__compipheader
 
 
