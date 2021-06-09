@@ -57,6 +57,7 @@
 
 
 #### OSI 7 Layer vs TCP/IP 4 Layer
+<img src="https://t1.daumcdn.net/cfile/tistory/261CC03358E1B73D32">
 
 #### 프로토콜의 기능
 * 캡슐화(Encapsulation)
