@@ -59,7 +59,9 @@
 
 
 #### OSI 7 Layer vs TCP/IP 4 Layer
-<img src="https://t1.daumcdn.net/cfile/tistory/261CC03358E1B73D32">
+<p align="center">
+  <img src="https://t1.daumcdn.net/cfile/tistory/261CC03358E1B73D32">
+</p>
 
 * 네트워크 액세스 계층(Network Access Layer)
   - 하드웨어와 관련된 요소를 지원하는 계층입니다.
