@@ -15,7 +15,7 @@
 
 ## 질문 심화 답변
 
-#### 💡 OSI 7 Layer 계층별 설명
+#### 💡OSI 7 Layer 계층별 설명
 * 물리 계층(Pyhsical Layer)
 * 데이터링크 계층(Data-Link Layer)
 * 네트워크 계층(Network Layer)
@@ -24,7 +24,7 @@
 * 표현 계층(Presentation Layer)
 * 응용 계층(Application Layer)
 
-#### 💡 프로토콜의 기능
+#### 💡프로토콜의 기능
 * 캡슐화(Encapsulation)
 * 흐름제어(Flow Control)
 * 연결제어(Connection Control)
